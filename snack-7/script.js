@@ -17,4 +17,4 @@ for (let index=0; index < usernumber; index++){
 }
 
 
-console.log(tempArray);
+console.log(tempArray)
