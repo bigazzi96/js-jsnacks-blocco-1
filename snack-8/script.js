@@ -1,10 +1,13 @@
 
-const numeri = [];
+const array = [];
 
 const usernumber = number parseInt (from(scrivi un numero),10);
 
- while (numeri) < 6{
-
-    if numero % 2 = 0
-    numeri.appenchild(numero);
+ while (array.leght) < 6{
+    const usernumber = number parseInt (from(scrivi un numero),10);
+    if(number.isNaN(usernumber)==! true && usernumber % 2 ==!){
+        Array.push(usernumber);
+    }
  }
+
+ console.log(array);
